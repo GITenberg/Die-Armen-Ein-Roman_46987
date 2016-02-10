@@ -1,0 +1,33 @@
+_repo: Die-Armen-Ein-Roman_46987
+contributor:
+  illustrator:
+    agent_name: Kollwitz, Käthe
+    aliases:
+    - Kollwitz, Kathe
+    - Kollwitz, Kaethe
+    - Kollwitz, Käthe Schmidt
+    birthdate: 1867
+    deathdate: 1945
+    gutenberg_agent_id: '44080'
+    url: http://www.gutenberg.org/2009/agents/44080
+creator:
+  author:
+    agent_name: Mann, Heinrich
+    birthdate: 1871
+    deathdate: 1950
+    gutenberg_agent_id: '35073'
+    url: http://www.gutenberg.org/2009/agents/35073
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Heinrich_Mann
+    - http://de.wikipedia.org/wiki/Heinrich_Mann
+description: ''
+gutenberg_issued: '2014-09-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46987'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'Die Armen: Ein Roman'
+url: http://www.gutenberg.org/ebooks/46987
